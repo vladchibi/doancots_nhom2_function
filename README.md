@@ -280,9 +280,6 @@ CMD ["npm", "run", "start:prod"]
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
-
-- **TuanStark** - *Initial work* - [GitHub](https://github.com/TuanStark)
 
 ## 🙏 Acknowledgments
 
